@@ -9,6 +9,8 @@
 
 师傅们如果想投稿可联系QQ/VX:547006660
 
+未经授权，文章严禁私自修改版权转载，本项目由M78sec维护
+
 
 
 ## 文章列表
@@ -21,7 +23,7 @@
 | 重生之我是赏金猎人(四)-记一次有趣的客户端RCE、服务端XXE挖掘  | J0o1ey |
 | 重生之我是赏金猎人(五)-多手法绕过WAF挖掘某知名厂商XSS        | J0o1ey |
 | 重生之我是赏金猎人(六)-强行多次FUZZ发现某厂商SSRF到redis密码喷洒批量反弹Shell | J0o1ey |
-|                                                              |        |
+| 重生之我是赏金猎人(七)-看我如何从FUZZ到XSS在SRC官网偷走你的个人信息 | RG     |
 | 未完待续                                                     |        |
 | 欢迎投稿                                                     |        |
 
@@ -41,6 +43,8 @@ https://www.cnblogs.com/J0o1ey/
 
 ## 赞赏
 
-您的每一次投喂，都会促进BountyHunterInChina的更好更新
+您的每一次投喂，都会促进BountyHunterInChina更好地更新
+
+您的赞赏会到达每一个项目贡献者的手中
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h007fjqllej20u0156tbt.jpg" alt="mm_facetoface_collect_qrcode_1646552465730" style="zoom: 25%;" />
