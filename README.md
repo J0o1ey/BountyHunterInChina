@@ -45,6 +45,9 @@
 
 https://www.cnblogs.com/J0o1ey/
 
+## Star趋势
+
+[![Stargazers over time](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina)
 
 
 ## 赞赏
