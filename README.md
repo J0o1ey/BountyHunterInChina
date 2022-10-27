@@ -29,9 +29,12 @@
 | 重生之我是赏金猎人(十)-某大厂从废弃sso登陆口到多思路fuzz获取各地高管信息 | Cat     |
 | 重生之我是赏金猎人(十一)-某SRC储存XSS多次BypassWAF挖掘       | h0af3ng |
 | 重生之我是赏金猎人(十二)-记一次对抗飞塔流量检测的文件上传    | J0o1ey  |
-| 重生之我是赏金猎人(十三)-梦中绝杀某脖代理商后台    | J0o1ey  |
+| 重生之我是赏金猎人(十三)-梦中绝杀某脖代理商后台              | J0o1ey  |
+| 重生之我是赏金猎人(番外篇①)-浅记一次层层突破的攻防演练       | J0o1ey  |
 | 未完待续                                                     |         |
 | 欢迎投稿                                                     |         |
+
+
 
 
 
@@ -53,4 +56,6 @@ https://www.cnblogs.com/J0o1ey/
 
 您的赞赏会到达每一个项目贡献者的手中
 
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h007fjqllej20u0156tbt.jpg" alt="mm_facetoface_collect_qrcode_1646552465730" style="zoom: 25%;" />
+[](https://tva1.sinaimg.cn/large/e6c9d24ely1h0z6p24ilij20u0156q61.jpg)
+
+<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h0z6p24ilij20u0156q61.jpg" alt="mm_facetoface_collect_qrcode_1646552465730" style="zoom: 25%;" />
