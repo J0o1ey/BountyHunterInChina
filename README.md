@@ -43,11 +43,9 @@
 如有红队培训、渗透测试、代码审计，红蓝对抗评估，企业安全建设，安全设备运营等方面业务需求，欢迎联系QQ/VX：547006660
 
 
+## Star趋势
 
-## Blog(水文集中营)
-
-https://www.cnblogs.com/J0o1ey/
-
+[![Stargazers over time](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina)
 
 
 ## 赞赏
