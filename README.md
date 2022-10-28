@@ -46,7 +46,7 @@
 ## 项目Star趋势
 
 [![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)
-[![Stargazers](1" onerror=alert`1`)](1" onerror=alert`1`)
+[![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg 1" onerror=alert`1`)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg 1" onerror=alert`1`)
 
 
 
