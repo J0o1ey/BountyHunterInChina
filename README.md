@@ -47,9 +47,6 @@
 
 [![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)
 
-[1.svg](http://152.136.116.44:9888/1.svg)
-[![Stargazers](http://152.136.116.44:9888/1.svg)](http://152.136.116.44:9888/1.svg)
-
 
 
 ## 赞赏
