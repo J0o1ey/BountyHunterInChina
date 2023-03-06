@@ -30,8 +30,12 @@
 | 重生之我是赏金猎人(十一)-某SRC储存XSS多次BypassWAF挖掘       | h0af3ng |
 | 重生之我是赏金猎人(十二)-记一次对抗飞塔流量检测的文件上传    | J0o1ey  |
 | 重生之我是赏金猎人(十三)-梦中绝杀某脖代理商后台              | J0o1ey  |
+<<<<<<< HEAD
 | 重生之我是赏金猎人(十四)-巧用目标域名特点挖掘某新上SRC四处RCE | J0o1ey  |
 | 重生之我是赏金猎人(番外篇①)-浅记一次层层突破的攻防演练       | J0o1ey  |
+=======
+| 重生之我是赏金猎人(番外篇壹)-浅记一次层层突破的攻防演练       | J0o1ey  |
+>>>>>>> a2d910f4a07a5f57fc05fbafdeb2644276a4d698
 | 未完待续                                                     |         |
 | 欢迎投稿                                                     |         |
 
@@ -44,9 +48,10 @@
 如有红队培训、渗透测试、代码审计，红蓝对抗评估，企业安全建设，安全设备运营等方面业务需求，欢迎联系QQ/VX：547006660
 
 
-## Star趋势
+## 项目Star趋势
 
-[![Stargazers over time](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina)
+[![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)
+
 
 
 ## 赞赏
