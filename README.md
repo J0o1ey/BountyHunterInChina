@@ -46,15 +46,3 @@
 ## 项目Star趋势
 
 [![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)
-
-
-
-## 赞赏
-
-您的每一次投喂，都会促进BountyHunterInChina更好地更新
-
-您的赞赏会到达每一个项目贡献者的手中
-
-[](https://tva1.sinaimg.cn/large/e6c9d24ely1h0z6p24ilij20u0156q61.jpg)
-
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h0z6p24ilij20u0156q61.jpg" alt="mm_facetoface_collect_qrcode_1646552465730" style="zoom: 25%;" />
