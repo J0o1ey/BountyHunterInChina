@@ -31,7 +31,6 @@
 | 重生之我是赏金猎人(十二)-记一次对抗飞塔流量检测的文件上传    | J0o1ey  |
 | 重生之我是赏金猎人(十三)-梦中绝杀某脖代理商后台              | J0o1ey  |
 | 重生之我是赏金猎人(十四)-巧用目标域名特点挖掘某新上SRC四处RCE | J0o1ey  |
-| 重生之我是赏金猎人(十五)-巧用restful接口测试技巧斩获4000美金 | J0o1ey |
 | 重生之我是赏金猎人(番外篇①)-浅记一次层层突破的攻防演练       | J0o1ey  |
 |未完待续||
 |欢迎投稿||
@@ -47,15 +46,3 @@
 ## 项目Star趋势
 
 [![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)
-
-
-
-## 赞赏
-
-您的每一次投喂，都会促进BountyHunterInChina更好地更新
-
-您的赞赏会到达每一个项目贡献者的手中
-
-[](https://tva1.sinaimg.cn/large/e6c9d24ely1h0z6p24ilij20u0156q61.jpg)
-
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h0z6p24ilij20u0156q61.jpg" alt="mm_facetoface_collect_qrcode_1646552465730" style="zoom: 25%;" />
