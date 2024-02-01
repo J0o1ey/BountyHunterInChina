@@ -32,7 +32,7 @@
 
 **为了补贴北漂期间家用，如果大家对笔者的全栈式黑白盒漏洞挖掘/攻防培训等业务感兴趣，也欢迎私信笔者，感谢大家对笔者生活不易的理解**
 
- <img src="https://j0o1ey-1251589192.cos.ap-beijing.myqcloud.com/202402011638089.png" alt="image-20240201163849056" style="zoom:25%;" /><img src="https://j0o1ey-1251589192.cos.ap-beijing.myqcloud.com/202402011640254.png" alt="mmqrcode1706774559027" style="zoom:25%;" />
+ <img src="https://j0o1ey-1251589192.cos.ap-beijing.myqcloud.com/202402011638089.png" alt="image-20240201163849056" style="zoom:25%;" />|<img src="https://j0o1ey-1251589192.cos.ap-beijing.myqcloud.com/202402011640254.png" alt="mmqrcode1706774559027" style="zoom:25%;" />
 
 
 
