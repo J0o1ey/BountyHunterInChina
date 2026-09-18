@@ -1,0 +1,6 @@
+# Build pipeline artifacts (extraction / translation staging / previews)
+# The final English PDFs live in en/; rerun work/*.py to regenerate anything below.
+work/
+
+# macOS
+.DS_Store

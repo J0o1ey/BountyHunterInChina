@@ -1,84 +1,90 @@
-# BountyHunterInChina（重生之我在安全行业讨口子）
-## 文章列表
+# BountyHunterInChina — Reborn as a Bounty Hunter in China
 
-| 文章名                                                       | 作者    |
-| :----------------------------------------------------------- | ------- |
-| 重生之我在安全行业讨口子(一)-轻松GET某src soap注入           | J0o1ey  |
-| 重生之我在安全行业讨口子(二)-逆向app破解数据包sign值实现任意数据重放添加 | J0o1ey  |
-| 重生之我在安全行业讨口子(三)-无脑挖掘某SRC Getshell          | J0o1ey  |
-| 重生之我在安全行业讨口子(四)-记一次有趣的客户端RCE、服务端XXE挖掘 | J0o1ey  |
-| 重生之我在安全行业讨口子(五)-多手法绕过WAF挖掘某知名厂商XSS  | J0o1ey  |
-| 重生之我在安全行业讨口子(六)-强行多次FUZZ发现某厂商SSRF到redis密码喷洒批量反弹Shell | J0o1ey  |
-| 重生之我在安全行业讨口子(七)-看我如何从FUZZ到XSS在SRC官网偷走你的个人信息 | RG      |
-| 重生之我在安全行业讨口子(八)-记一次移花接木的GetShell        | RG      |
-| 重生之我在安全行业讨口子(九)-从本无法触发的xss到梦幻联动挖掘多个致命接口下的XSS触发点 | h0af3ng |
-| 重生之我在安全行业讨口子(十)-某大厂从废弃sso登陆口到多思路fuzz获取各地高管信息 | Cat     |
-| 重生之我在安全行业讨口子(十一)-某SRC储存XSS多次BypassWAF挖掘 | h0af3ng |
-| 重生之我在安全行业讨口子(十二)-记一次对抗飞塔流量检测的文件上传 | J0o1ey  |
-| 重生之我在安全行业讨口子(十三)-梦中绝杀某脖代理商后台        | J0o1ey  |
-| 重生之我在安全行业讨口子(十四)-巧用目标域名特点挖掘某新上SRC四处RCE | J0o1ey  |
-| 重生之我在安全行业讨口子(十五)-从忽略到triage的SSRF挖掘之旅  | J0o1ey  |
-| 重生之我在安全行业讨不到口子(十六)-记一次最终被忽略的graphql漏洞挖掘经历 | J0o1ey  |
-| 重生之我在安全行业讨口子(番外篇①)-浅记一次层层突破的攻防演练 | J0o1ey  |
-| 重生之我在安全行业讨口子(番外篇②) - 某头部直辖市攻防演练纪实-如何不用0day打下n个点 | J0o1ey  |
-| 重生之我在安全行业讨口子(番外篇③) - 60天通过CISSP考试经验分享 | J0o1ey  |
-| 重生之我是赏金猎人合订本(2023年4月前的合集)                  | J0o1ey  |
-| 未完待续                                                     |         |
-| 欢迎投稿                                                     |         |
+**[English](README.md)** | **[简体中文](README.zh-CN.md)**
 
+A collection of real-world bug bounty / SRC (Security Response Center) hunting stories from China — how vulnerabilities were actually found, chained, and reported, written by working security engineers.
 
+> The Chinese series title, 重生之我在安全行业讨口子, literally reads *"Reborn: Scraping Out a Living in China's Security Industry"* — a self-deprecating nod to the tough years the industry has been through. All articles are educational write-ups.
 
-### 项目交流群/广告
+## Articles
 
-**应大家要求，开一个项目交流群，人满或者二维码过期可联系笔者Vx拉您入群（欢迎大家讨论前沿的漏洞挖掘/攻防case，在安全行业讨口子的生活体悟**
+English translations live in the [`en/`](en/) directory; the original Chinese PDFs are in the repository root.
 
-**也欢迎大家和笔者进行技术交流与探讨（希望我们可以从交流过程中都有收获，而不是一方当伸手党）**
+| # | Article (English) | Author |
+| :-- | :-- | :-- |
+| 1 | [An Easy SOAP Injection on an SRC](en/01-easy-soap-injection-on-an-src.pdf) | J0o1ey |
+| 2 | [Reverse-Engineering an App to Crack Its Packet Signature for Arbitrary Data Replay](en/02-reverse-engineering-app-signature-for-arbitrary-replay.pdf) | J0o1ey |
+| 3 | [A No-Brains-Needed Getshell on an SRC](en/03-a-no-brains-needed-getshell-on-an-src.pdf) | J0o1ey |
+| 4 | [A Fun Case of Client-Side RCE Plus Server-Side XXE](en/04-client-side-rce-plus-server-side-xxe.pdf) | J0o1ey |
+| 5 | [Multiple Techniques to Bypass a WAF and Find XSS at a Well-Known Vendor](en/05-multiple-techniques-bypass-waf-xss.pdf) | J0o1ey |
+| 6 | [Aggressive FUZZing: From SSRF to Redis Password Spraying and Mass Reverse Shells](en/06-aggressive-fuzzing-ssrf-to-redis-mass-reverse-shells.pdf) | J0o1ey |
+| 7 | [From FUZZ to XSS: Stealing Your Personal Information from an SRC's Official Site](en/07-from-fuzz-to-xss-stealing-personal-info.pdf) | RG |
+| 8 | [A Sleight-of-Hand Getshell](en/08-a-sleight-of-hand-getshell.pdf) | RG |
+| 9 | [From an Untriggerable XSS to a Dream Chain of XSS in Multiple Critical APIs](en/09-untriggerable-xss-to-dream-chain-xss.pdf) | h0af3ng |
+| 10 | [From an Abandoned SSO Login to Executive Profiles Across the Country](en/10-abandoned-sso-login-to-executive-profiles.pdf) | Cat |
+| 11 | [Stored XSS with Multiple WAF Bypasses on an SRC](en/11-stored-xss-multiple-waf-bypasses.pdf) | h0af3ng |
+| 12 | [A File Upload Battle Against Fortinet Traffic Inspection](en/12-file-upload-vs-fortinet-traffic-inspection.pdf) | J0o1ey |
+| 13 | [A Midnight Clutch Kill on an Agent Backend](en/13-midnight-clutch-kill-on-an-agent-backend.pdf) | J0o1ey |
+| 14 | [Leveraging Target Domain Quirks for Four RCEs on a Newly Launched SRC](en/14-domain-quirks-four-rces-on-a-new-src.pdf) | J0o1ey |
+| 15 | [An SSRF Journey from "Ignored" to "Triaged"](en/15-ssrf-journey-from-ignored-to-triaged.pdf) | J0o1ey |
+| 16 | [A GraphQL Bug Hunt That Ended Up Ignored](en/16-graphql-bug-hunt-that-ended-up-ignored.pdf) | J0o1ey |
+| Extra #1 | [Notes on a Layer-by-Layer Breakthrough in an Attack-Defense Exercise](en/extra-1-layer-by-layer-breakthrough-ad-exercise.pdf) | J0o1ey |
+| Extra #2 | [A City-Wide Attack-Defense Exercise: Pwning N Targets Without a Single 0day](en/extra-2-citywide-exercise-no-0day-needed.pdf) | J0o1ey |
+| Extra #3 | [Passing the CISSP Exam in 60 Days: My Experience](en/extra-3-passing-cissp-in-60-days.pdf) | J0o1ey |
+| Collection | [Reborn as a Bounty Hunter in China — The Collection (Works Before April 2023)](en/reborn-as-a-bounty-hunter-in-china-collection.pdf) | J0o1ey |
+| To be continued… | | |
+| Contributions welcome | | |
 
-**为了补贴北漂期间家用，如果大家对笔者的<全栈式黑白盒漏洞挖掘/攻防培训>等业务感兴趣，或有其他合规的项目需求，也欢迎私信笔者，感谢大家对笔者生活不易的理解**
+Each English PDF keeps the original figures from the Chinese edition; only the body text has been translated.
 
-![项目图min](https://j0o1ey-1251589192.cos.ap-beijing.myqcloud.com/202402021520821.jpg)
+## Community
+
+By popular request there is a project discussion group (WeChat). If the QR code has expired or the group is full, contact the author on WeChat to be invited in. Everyone is welcome to discuss cutting-edge bug hunting and attack-defense cases — or simply what life is like scraping out a living in the security industry.
+
+Feel free to reach out to the author for technical exchanges too. (Hopefully we all learn something from the conversation, rather than one side doing all the asking.)
+
+To help make ends meet, the author also runs full-stack white-box/black-box vulnerability hunting and attack-defense training. If you are interested, or have other compliant project needs, feel free to get in touch via private message — your understanding is appreciated.
+
+![project](https://j0o1ey-1251589192.cos.ap-beijing.myqcloud.com/202402021520821.jpg)
 
 ## Update History
 
-### 2024年2月 更新
+### February 2024
 
-突然发现已经有将近一年没有更新了，这一年笔者做攻防/Pentest类的工作已经不是很多了，更多的时间投入到了企业安全建设的学习、思考与实践中，因此也没啥优质的内容可以更新，更新缓慢，还望大家见谅
+I suddenly realized it has been almost a year since the last update. This past year I haven't done much offensive/Pentest work — most of my time went into learning, thinking about, and practicing enterprise security building, so there was no quality content to publish. My apologies for the slow updates.
 
-**结合近一年安全行业的惨淡大形势和笔者北漂的切身体验，2024.2.1 本项目决定更名为“重生之我在安全行业讨口子”**
+Considering how rough the security industry has been over the past year, and my own first-hand experience living and working in Beijing, **on Feb 1, 2024 this project was renamed to "Reborn: Scraping Out a Living in China's Security Industry"** (重生之我在安全行业讨口子). The new title reflects the reality of surviving in this field while still telling a few interesting technical stories — that was the whole point of the rename.
 
-**以更加切合实际的生存现状为标题，描绘一点有意思的技术case，这便是改名的初衷**
+### April 2023
 
+After a full year of internet-industry winter under the pandemic, spring finally arrived at the start of the year and the pandemic era essentially ended. Sadly, after last year's losses, my small business won't survive past mid-year. As an entrepreneur in my twenties, I'm preparing to transfer my equity — quite emotional about it. After running around for two years, in the end I still have to honestly let go of unrealistic ideas and accept the cruelty of reality and the market.
 
+Over those two years of running a company and a business, I experienced a lot. Apart from the few blossoming moments of closed deals, most of what I got were bruises from human nature and other people's hearts. Constantly worrying whether the company could survive the next quarter left a twenty-something physically and mentally exhausted — lost, anxious, restless, and drifting away from my original passion. So I chose to give myself enough time to settle down and find my original heart, instead of rushing for quick success at the youngest age of my life.
 
-###  2023年4月 更新
+Looking back now, for people doing both technology and business, perhaps the purest thing left in their hearts is technology itself. I was drawn to hacker stories as a kid, and before I knew it I've been studying security for many years. Limited by IQ and talent, I'm still a script kiddie after all these years. The question I've been asked most by friends over the years is: *"After learning the OWASP Top 10 vulnerability basics, how do I actually hunt bugs effectively?"* Every time, my tongue-tied answer is: "Build up your fundamentals. Build up your fundamentals. Build up your fundamentals."
 
-经历了去年一年疫情大背景下的互联网寒冬，年初时节，终于等到了春回大地，疫情时代的基本结束。但是很遗憾，经历了去年的亏损后，笔者的小微企业已经熬不过今年年中了，作为一个20来岁的创业者准备申请股权转让了，颇有些感慨。自己忙里忙外，终究还是要老老实实地放下那些不切实际的想法，接受现实和市场的残酷。
+Within my limited knowledge, I firmly believe — on both the offensive and defensive side — that if you truly understand how developers build things, how ops engineers operate, and how human nature works, you can be unstoppable.
 
-做公司和业务的这两年，笔者经历了很多，除去少部分成单的绽放时刻，大部分时候多的还是被人心和人性打的鼻青脸肿的感悟。时时刻刻考虑企业能否活过下一个季度，这让一个20来岁的年轻人身心俱疲，感到迷惘、不安和浮躁，迷失了很多的初心与热爱。所以我选择给足自己沉淀的时间，寻觅本心，而不是在年轻到不能再年轻的岁月里急于求成。
+So I compiled the articles from these two years into a collection: 12 sections, 12,890 characters, hoping to show everyone some interesting security problems. All images in the articles were edited and imply no "actual vulnerabilities." In an era of paid knowledge, underpaid engineers scraping by, and struggling small businesses, keeping this free is not easy. As the ancient saying goes, *"one knows honor and disgrace only when well-fed and well-clothed."* Sadly, I'm a poor guy worrying about betrothal gifts who can't afford a house, so there won't be updates for a while — I need to save time to fight life itself. Thank you for understanding.
 
-如今回首看来，可能同时做技术和商业的人，心中最纯粹的东西可能也只剩下技术了。笔者小时候被黑客的故事吸引，从小到大，一不小心坚持学习安全已经好些年了，受智商和天赋所限，自己学了挺久依然是菜鸡水平。在学安全的这些年被朋友们问到最多的一个问题就是——“我学了owasp top10漏洞基础后，如何有效地挖掘漏洞”，每次被问到这种问题，我词穷的回答都是“补足基础，补足基础，补足基础”。
-
-在笔者仅有的一点知识储备里中，笔者一直坚信，在无论在攻还是防，只要拿捏好开发的特性，运维的习性，人类的本性——就能无往不利
-
-因此笔者将这一两年的文章收录起来做成合订本，共12小节，12890字，希望多少能给大家看到一些有趣的安全问题。文章中的图都是P的，不涉及任何“实际漏洞”含义。笔者想说，在这个知识付费，技术人员缺钱谋生存，小微企业的发展举步维艰时代里，坚持做免费的分享实属不易。衣食足而知荣辱，仓廪实而知礼节，很遗憾，笔者是个为彩礼发愁，房子也买不起的穷鬼，短时期内也无法继续更新了，要省出时间和生活对线了，希望各位理解。
-
-希望在将来的某一天，我们在下一场山海相遇。
-
-
-
-
+Hope that someday, somewhere, we meet again at the next mountain and sea.
 
 ## Q&A
 
-1.同时关于漏洞黑白盒挖掘，很多人咨询笔者——“自己没思路怎么办?”
+1. About white-box/black-box bug hunting, many people ask me — *"What if I have no ideas?"*
 
-**针对这个问题，笔者想说，不要把漏洞挖掘的希望寄托于“取巧”，现在的漏洞产出环境早已不是以前那个脚本小子都能日天下的年代了。**
+**My answer: don't pin your hopes on tricks. The bug bounty scene is no longer the era when a script kiddie could own everything.**
 
-**明智之选是老老实实把开发和安全知识的基础打牢，基础够厚实，思路与灵感只是附属品，厚积才能薄发**
+**The wise choice is to honestly build a solid foundation in development and security. When your fundamentals are thick enough, ideas and inspiration come as byproducts — accumulate deep, and release thin.**
 
-
-
-## 项目Star趋势
+## Star Trend
 
 [![Stargazers](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)](https://starchart.cc/J0o1ey/BountyHunterInChina.svg)
 
+## License
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) © J0o1ey.
+
+In short: you are free to share and adapt the articles (including translating them) for **non-commercial** purposes, as long as you credit the original authors and release adaptations under the same license. **Commercial use requires the author's prior written permission.** The Chinese originals are the authoritative version; English translations are community contributions for reference.
